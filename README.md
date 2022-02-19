@@ -36,6 +36,6 @@ Pieces needed
 * 1 x USB-C - USB2 Receptacle (https://www.digikey.de/de/products/detail/gct/USB4085-GF-A/9859662)
 
 Thanks to:
-* To be able to fit the WS2812B 5050 RGB LEDs i modified the footprints of https://github.com/ai03-2725/MX_Alps_Hybrid
-* The creator of the nice silkscreen image (Waiting for artist data).
+* ai03-2725, to be able to fit the WS2812B 5050 RGB LEDs i modified the footprints of https://github.com/ai03-2725/MX_Alps_Hybrid
+* The creator of the nice silkscreen image, euphoria (https://twitter.com/3uf0ria) (https://www.pixiv.net/en/users/17700641).
 * QMK Firmware (Waiting to be merged into master).
