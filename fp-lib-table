@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name MX_Hotswap_Switches_SMD)(type KiCad)(uri ${KIPRJMOD}/Libraries/MX_Hotswap_Switches_SMD.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/ExtLibraries/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name Graphics)(type KiCad)(uri ${KIPRJMOD}/Libraries/Graphics.pretty)(options "")(descr ""))
+  (lib (name Housings_QFP)(type KiCad)(uri ${KIPRJMOD}/ExtLibraries/Housings_QFP.pretty)(options "")(descr ""))
+)
