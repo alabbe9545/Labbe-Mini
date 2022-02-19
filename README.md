@@ -10,6 +10,8 @@ Before opening it on Kicad download the following libraries and place them in th
 
 Some nice pictures of the keyboard
 
+![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/pcb.png)
+![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/render.png)
 ![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/IMG_1779.jpg)
 ![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/IMG_1780.jpg)
 ![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/IMG_1782.jpg)
@@ -34,5 +36,6 @@ Pieces needed
 * 1 x USB-C - USB2 Receptacle (https://www.digikey.de/de/products/detail/gct/USB4085-GF-A/9859662)
 
 Thanks to:
-* To be able to fit the WS2812B 5050 RGB LEDs i modified the footprints of https://github.com/ai03-2725/MX_Alps_Hybrid, Thanks c:
+* To be able to fit the WS2812B 5050 RGB LEDs i modified the footprints of https://github.com/ai03-2725/MX_Alps_Hybrid
 * The creator of the nice silkscreen image.
+* QMK Firmware.
