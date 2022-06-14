@@ -16,6 +16,7 @@ Some nice pictures of the keyboard
 ![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/IMG_1780.jpg)
 ![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/IMG_1782.jpg)
 ![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/IMG_1783.jpg)
+![alt text](https://github.com/alabbe9545/Labbe-Mini/blob/main/images/case.jpg)
 
 Pieces needed
 * 4 x WS2812B 5050 RGB LEDs (https://aliexpress.com/item/1005002653014067.html?gatewayAdapt=glo2deu&spm=a2g0o.9042311.0.0.55134c4dMfKc13)
