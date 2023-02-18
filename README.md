@@ -39,4 +39,4 @@ Pieces needed
 Thanks to:
 * ai03-2725, to be able to fit the WS2812B 5050 RGB LEDs i modified the footprints of https://github.com/ai03-2725/MX_Alps_Hybrid
 * The creator of the nice silkscreen image, euphoria (https://twitter.com/3uf0ria) (https://www.pixiv.net/en/users/17700641).
-* QMK Firmware (Waiting to be merged into master).
+* QMK Firmware ( https://github.com/qmk/qmk_firmware/tree/master/keyboards/labbe/labbeminiv1 ).
